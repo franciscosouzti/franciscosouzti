@@ -13,7 +13,7 @@ abstract Franciscosouzti {
  String name = "Francisco de Souza Ribeiro"
  String acknowledgements = "Desenvolvimento Mobile"
  
- String primarySkillset = "Firebase, Getx, Mobx, SCRUM"
+ String primarySkillset = "Firebase, Getx, Mobx, Scrum"
  List<String> stacks = ["Dart", "Flutter", "Swift"] 
 
 }
