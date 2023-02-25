@@ -1,4 +1,4 @@
-### Oie devs 👋
+### Oie Devs 👋
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
@@ -11,7 +11,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 abstract Franciscosouzti {
 
  String name = "Francisco de Souza Ribeiro"
- String acknowledgements = "Desenvolvimento mobile"
+ String acknowledgements = "Desenvolvimento Mobile"
  
  String primarySkillset = "Firebase, Getx, Mobx, SCRUM"
  List<String> stacks = ["Dart", "Flutter", "Swift"] 
@@ -41,10 +41,11 @@ abstract Franciscosouzti {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscosouzti&show_icons=true&count_private=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: http://infowebsolucoes.com.br/
-[instagram]: https://www.instagram.com/francisco_web/
+[Website]: http://infowebsolucoes.com.br/
+[Instagram]: https://instagram.com/francisco_web/
 
 #### Rede Sociais!
 
-🏡 [website][website] **|**
-📷 [instagram][instagram] **|** 
+🏡 [Website][website]
+<br>
+📷 [Instagram][instagram]
