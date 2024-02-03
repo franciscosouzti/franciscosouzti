@@ -40,12 +40,3 @@ abstract Franciscosouzti {
 <a href="https://github.com/franciscosouzti">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscosouzti&show_icons=true&count_private=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-
-[Website]: http://infowebsolucoes.com.br/
-[Instagram]: https://instagram.com/francissribeiro/
-
-#### Rede Sociais!
-
-🏡 [Website][website]
-<br>
-📷 [Instagram][instagram]
